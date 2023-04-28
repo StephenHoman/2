@@ -1,0 +1,69 @@
+{
+  "computers": [
+    {
+      "id": 1,
+      "type": "laptop",
+      "name": "Dell Inspiron 15",
+      "price": 699.99,
+      "description": "The Dell Inspiron 15 laptop is designed for productivity and entertainment. It features a 15.6-inch HD display, Intel Core i5 processor, 8GB of RAM, and 256GB SSD.",
+      "specs": {
+        "Processor": "Intel Core i5",
+        "RAM": "8GB",
+        "Storage": "256GB SSD",
+        "Display": "15.6-inch HD"
+      }
+    },
+    {
+      "id": 2,
+      "type": "laptop",
+      "name": "HP Pavilion 14",
+      "price": 799.99,
+      "description": "The HP Pavilion 14 laptop is sleek, stylish, and powerful. It features a 14-inch Full HD display, Intel Core i7 processor, 16GB of RAM, and 512GB SSD.",
+      "specs": {
+        "Processor": "Intel Core i7",
+        "RAM": "16GB",
+        "Storage": "512GB SSD",
+        "Display": "14-inch Full HD"
+      }
+    },
+    {
+      "id": 3,
+      "type": "laptop",
+      "name": "Asus ROG Zephyrus",
+      "price": 1499.99,
+      "description": "The Asus ROG Zephyrus gaming laptop is a powerhouse. It features a 15.6-inch Full HD display with 240Hz refresh rate, Intel Core i9 processor, 32GB of RAM, and 1TB SSD.",
+      "specs": {
+        "Processor": "Intel Core i9",
+        "RAM": "32GB",
+        "Storage": "1TB SSD",
+        "Display": "15.6-inch Full HD with 240Hz refresh rate"
+      }
+    },
+    {
+      "id": 4,
+      "type": "laptop",
+      "name": "Acer Chromebook Spin 311",
+      "price": 299.99,
+      "description": "The Acer Chromebook Spin 311 is a versatile 2-in-1 device that's perfect for everyday use. It features an 11.6-inch HD touchscreen display, MediaTek processor, 4GB of RAM, and 32GB eMMC storage.",
+      "specs": {
+        "Processor": "MediaTek",
+        "RAM": "4GB",
+        "Storage": "32GB eMMC",
+        "Display": "11.6-inch HD touchscreen"
+      }
+    },
+    {
+      "id": 5,
+      "type": "laptop",
+      "name": "Lenovo ThinkPad X1 Carbon",
+      "price": 1699.99,
+      "description": "The Lenovo ThinkPad X1 Carbon is a premium business laptop that's built to last. It features a 14-inch Full HD display, Intel Core i7 processor, 16GB of RAM, and 1TB SSD.",
+      "specs": {
+        "Processor": "Intel Core i7",
+        "RAM": "16GB",
+        "Storage": "1TB SSD",
+        "Display": "14-inch Full HD"
+      }
+    }
+  ]
+}

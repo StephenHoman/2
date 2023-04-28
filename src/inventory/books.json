@@ -1,0 +1,65 @@
+{
+    "textbooks": [
+      {
+        "id": 1,
+        "type": "textbook",
+        "title": "Introduction to Computer Science",
+        "author": "John Doe",
+        "edition": "3rd",
+        "publisher": "Pearson",
+        "isbn": "9780134654204",
+        "price": 120.00,
+        "format": "Hardcover",
+        "categories": ["Computer Science", "Programming", "Algorithms"]
+      },
+      {
+        "id": 2,
+        "type": "textbook",
+        "title": "Principles of Microeconomics",
+        "author": "N. Gregory Mankiw",
+        "edition": "9th",
+        "publisher": "Cengage Learning",
+        "isbn": "9780357129577",
+        "price": 150.00,
+        "format": "Paperback",
+        "categories": ["Economics", "Microeconomics"]
+      },
+      {
+        "id": 3,
+        "type": "textbook",
+        "title": "Organic Chemistry",
+        "author": "David R. Klein",
+        "edition": "3rd",
+        "publisher": "Wiley",
+        "isbn": "9781119378693",
+        "price": 200.00,
+        "format": "Hardcover",
+        "categories": ["Chemistry", "Organic Chemistry"]
+      },
+      {
+        "id": 4,
+        "type": "textbook",
+        "title": "Fundamentals of Physics",
+        "author": "David Halliday",
+        "edition": "11th",
+        "publisher": "Wiley",
+        "isbn": "9781119460131",
+        "price": 180.00,
+        "format": "Hardcover",
+        "categories": ["Physics", "Fundamental Physics"]
+      },
+      {
+        "id": 5,
+        "type": "textbook",
+        "title": "American Government and Politics Today",
+        "author": "Barbara Bardes",
+        "edition": "19th",
+        "publisher": "Cengage Learning",
+        "isbn": "9781337561788",
+        "price": 130.00,
+        "format": "Paperback",
+        "categories": ["Political Science", "American Government"]
+      }
+    ]
+  }
+  

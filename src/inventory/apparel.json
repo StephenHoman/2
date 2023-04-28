@@ -1,0 +1,55 @@
+{
+    "apparel": [
+      {
+        "id": 1,
+        "type": "hoodie",
+        "name": "CSP Golden Bear Hoodie",
+        "description": "Stay cozy and show your school spirit with this comfortable hoodie featuring the Concordia St. Paul Golden Bear.",
+        "price": 45.00,
+        "sizes": ["S", "M", "L", "XL"],
+        "colors": ["Maroon", "Navy"],
+        "image_url": "https://example.com/csp-golden-bear-hoodie.jpg"
+      },
+      {
+        "id": 2,
+        "type": "t-shirt",
+        "name": "CSP Golden Bear T-Shirt",
+        "description": "Support your school with this classic t-shirt featuring the Concordia St. Paul Golden Bear.",
+        "price": 20.00,
+        "sizes": ["S", "M", "L", "XL"],
+        "colors": ["Maroon", "Navy", "Grey"],
+        "image_url": "https://example.com/csp-golden-bear-tshirt.jpg"
+      },
+      {
+        "id": 3,
+        "type": "hat",
+        "name": "CSP Golden Bear Baseball Cap",
+        "description": "Stay cool and represent your school with this stylish baseball cap featuring the Concordia St. Paul Golden Bear.",
+        "price": 25.00,
+        "sizes": ["One Size"],
+        "colors": ["Maroon", "Navy"],
+        "image_url": "https://example.com/csp-golden-bear-hat.jpg"
+      },
+      {
+        "id": 4,
+        "type": "sweatpants",
+        "name": "CSP Golden Bear Sweatpants",
+        "description": "Stay comfortable and show your school pride with these cozy sweatpants featuring the Concordia St. Paul Golden Bear.",
+        "price": 35.00,
+        "sizes": ["S", "M", "L", "XL"],
+        "colors": ["Maroon", "Navy"],
+        "image_url": "https://example.com/csp-golden-bear-sweatpants.jpg"
+      },
+      {
+        "id": 5,
+        "type": "sweatshirt",
+        "name": "CSP Golden Bear Crewneck Sweatshirt",
+        "description": "Stay warm and cozy with this comfortable crewneck sweatshirt featuring the Concordia St. Paul Golden Bear.",
+        "price": 40.00,
+        "sizes": ["S", "M", "L", "XL"],
+        "colors": ["Maroon", "Navy", "Grey"],
+        "image_url": "https://example.com/csp-golden-bear-crewneck.jpg"
+      }
+    ]
+  }
+  

@@ -1,0 +1,28 @@
+.Hero img
+{
+    width: 101%;
+    margin-left: -5px;;
+    
+}
+.Hero-text 
+{
+    color: blue;
+}
+
+.Navbar
+{
+    z-index: 1;
+    font-size: small;
+}
+.Container-style
+{
+    margin-left: 6rem;
+    margin-top: 1rem;
+    color: rgb(0, 0, 0);
+}
+.Footer-Container-style
+{   
+    max-width: 100% !important;
+    width: 100%;
+    background-color: #252b2f;
+}

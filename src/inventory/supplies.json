@@ -1,0 +1,79 @@
+{
+    "supplies": [
+    {
+    "id": 1,
+    "type": "backpacks",
+    "brand": "JanSport",
+    "name": "SuperBreak Backpack",
+    "price": 36.00,
+    "description": "The JanSport SuperBreak Backpack is a classic style backpack that is perfect for school. It has a large main compartment and a front pocket with organizer to keep your supplies in order. The backpack is made of durable fabric and has padded shoulder straps for comfort.",
+    "dimensions": {
+    "height": "16.7 inches",
+    "width": "13 inches",
+    "depth": "8.5 inches"
+    },
+    "colors": ["Black", "Navy", "Red", "Pink", "Grey"],
+    "material": "Polyester"
+    },
+    {
+    "id": 2,
+    "type": "backpacks",
+    "brand": "Under Armour",
+    "name": "Hustle 5.0 Backpack",
+    "price": 55.00,
+    "description": "The Under Armour Hustle 5.0 Backpack is a great choice for students who need a durable and spacious backpack. It has a large main compartment with a soft-lined laptop sleeve, a front pocket with organizer, and two side water bottle pockets. The backpack is made of tough, water-resistant fabric and has padded HeatGear shoulder straps for comfort.",
+    "dimensions": {
+    "height": "19.3 inches",
+    "width": "13 inches",
+    "depth": "7.2 inches"
+    },
+    "colors": ["Black", "Red", "Navy", "Grey"],
+    "material": "Polyester"
+    },
+    {
+    "id": 3,
+    "type": "backpacks",
+    "brand": "Herschel Supply Co.",
+    "name": "Little America Backpack",
+    "price": 99.99,
+    "description": "The Herschel Supply Co. Little America Backpack is a stylish and functional backpack that is perfect for school. It has a large main compartment with a padded laptop sleeve, a front pocket with hidden zipper and key clip, and a media pocket with headphone port. The backpack is made of durable polyester and has contoured shoulder straps and a padded back panel for comfort.",
+    "dimensions": {
+    "height": "19.25 inches",
+    "width": "11.25 inches",
+    "depth": "7 inches"
+    },
+    "colors": ["Black", "Navy", "Grey", "Brown"],
+    "material": "Polyester"
+    },
+    {
+    "id": 4,
+    "type": "backpacks",
+    "brand": "Nike",
+    "name": "Brasilia Backpack",
+    "price": 50.00,
+    "description": "The Nike Brasilia Backpack is a sporty and functional backpack that is great for athletes and students. It has a large main compartment with a padded laptop sleeve, a front pocket with organizer, and two side pockets for water bottles. The backpack is made of durable polyester and has padded shoulder straps and a back panel for comfort.",
+    "dimensions": {
+    "height": "20 inches",
+    "width": "13 inches",
+    "depth": "8 inches"
+    },
+    "colors": ["Black", "Navy", "Red", "Grey"],
+    "material": "Polyester"
+    },
+      {
+        "id": 5,
+        "type": "backpacks",
+        "brand": "Vans",
+        "name": "Old Skool Backpack",
+        "price": 40.00,
+        "description": "The Vans Old Skool Backpack is a stylish and functional backpack that is perfect for school. It has a large main compartment with a laptop sleeve, a front zippered pocket, and side water bottle pockets. The backpack is made of durable polyester and has padded shoulder straps and a back panel for comfort.",
+        "dimensions": {
+          "height": "16.5 inches",
+          "width": "12.75 inches",
+          "depth": "4.75 inches"
+        },
+        "colors": ["Black", "Navy", "Red", "Grey", "Checkerboard"],
+        "material": "Polyester"
+      }
+    ]}
+      
