@@ -11,7 +11,7 @@ import books from '../Photos/books.jpg';
 
 function MainPageContainer() {
   return (
-    <Container data-cy="main-page-container" fluid className={styles['Container-style']}>
+    <Container   fluid className={styles['Container-style']}>
       <Row className="justify-content-center">
         <Col  xs lg="6">
           <Imgcard1 src={laptop} title="Computers" text="Browse Computers" route="/computers"/>
