@@ -9,10 +9,10 @@ function Footer() {
           <Container className={styles['Footer-Container-style']}>
             <Row>
               <Col>
-                <p>Some footer text here.</p>
+                <p>Concordia St. Paul</p>
               </Col>
               <Col>
-                <p>Some other footer text here.</p>
+                <p> </p>
               </Col>
             </Row>
           </Container>

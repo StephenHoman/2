@@ -8,7 +8,7 @@
         "price": 45.00,
         "sizes": ["S", "M", "L", "XL"],
         "colors": ["Maroon", "Navy"],
-        "image_url": "https://example.com/csp-golden-bear-hoodie.jpg"
+        "image_url": "https://example.com/Photos/clothes.jpg"
       },
       {
         "id": 2,
